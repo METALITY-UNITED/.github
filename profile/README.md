@@ -6,7 +6,7 @@ Heavy metal band born from virtual REALITY! 🤘
 
 ### NIGHT OF DEATH (2023)
 
-![NIGHT OF DEATH](discography/night_of_death.webp)
+![NIGHT OF DEATH](https://raw.githubusercontent.com/METALITY-UNITED/.github/main/profile/discography/night_of_death.webp)
 
 1. NIGHT OF DEATH
 1. NIGHT OF DEATH (Orchestral instrumental)
@@ -18,7 +18,7 @@ M3-2023春 (2023/04/30)
 
 ### LOST BLESSING
 
-![LOST BLESSING](discography/lost_blessing.webp)
+![LOST BLESSING](https://raw.githubusercontent.com/METALITY-UNITED/.github/main/profile/discography/lost_blessing.webp)
 
 1. Blessing
 1. Saint Catastrophe
