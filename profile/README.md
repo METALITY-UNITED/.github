@@ -4,6 +4,15 @@ Heavy metal band born from virtual REALITY! 🤘
 
 ## Discography
 
+### BLACK WINGS (2024)
+
+![BLACK WINGS](https://raw.githubusercontent.com/METALITY-UNITED/.github/main/profile/discography/black_wings.webp)
+
+1. BLACK WINGS
+1. BLACK WINGS (Instrumental)
+
+M3-2024春 (2024/04/28)
+
 ### NIGHT OF DEATH (2023)
 
 ![NIGHT OF DEATH](https://raw.githubusercontent.com/METALITY-UNITED/.github/main/profile/discography/night_of_death.webp)
