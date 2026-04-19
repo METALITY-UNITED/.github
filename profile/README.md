@@ -6,7 +6,7 @@ Heavy metal band born from virtual REALITY! 🤘
 
 ### DIVINE PUNISHMENT (2025)
 
-![DIVINE PUNISHMENT](https://raw.githubusercontent.com/METALITY-UNITED/.github/main/profile/discography/divine_punishment.webp)
+![DIVINE PUNISHMENT](https://raw.githubusercontent.com/METALITY-UNITED/.github/main/profile/discography/divinepunishment.webp)
 
 1. DIVINE PUNISHMENT
 1. DIVINE PUNISHMENT (Instrumental)
@@ -46,9 +46,12 @@ M3-2023春 (2023/04/30)
 
 M3-2022秋 (2022/10/30)
 
-## DEMOLITION Series (demo songs)
+<details>
+<summary>DEMOLITION Series (demo songs)</summary>
 
 ### DEMOLITION Vol.1 (2025)
+
+![DEMOLITION Vol.1](https://raw.githubusercontent.com/METALITY-UNITED/.github/main/profile/discography/demolition.webp)
 
 1. Dedicated To King <Rose Ver.>
 1. Raise Your Sword <Rose Ver.>
@@ -57,10 +60,14 @@ M3-2025秋 (2025/10/26)
 
 ### DEMOLITION Vol.2 (2026)
 
+![DEMOLITION Vol.2](https://raw.githubusercontent.com/METALITY-UNITED/.github/main/profile/discography/demolition2.webp)
+
 1. Pride is Inherited <Rose Ver.>
 1. For whom <Rose Ver.>
 
 M3-2026春 (2026/04/26)
+
+</details>
 
 ## Band Members
 
